@@ -1,8 +1,12 @@
 # Awesome Japanese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<img align="middle" alt="Coding" width="250" src="https://media1.giphy.com/media/yKRLHtkoV95Wo/200w.webp?cid=ecf05e47stzrp90h8ry23r0xt97j4q65f4cdlbudy9ks7i0a&rid=200w.webp&ct=g">
+
 > A curated list of Japanese language learning resources.
 
 Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd like to have community input on selecting the best mobile resources for each category. Please see *Issues* section for more information.
+
+<img align="middle" alt="Coding" width="250" src="https://media0.giphy.com/media/d9WkParY0LER4iLquM/200w.webp?cid=ecf05e47yyc9yo3241t3rm895ibqdg2rrldlqh69p1xe6v5g&rid=200w.webp&ct=g">
 
 ## Contents
 
