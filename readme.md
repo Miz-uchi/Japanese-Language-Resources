@@ -25,7 +25,6 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
   - [Software](#software)
 
 ## How To Use These Resources
-
 | Indicator    | Description         |
 | ------------ | ------------------- |
 | :baby:       | beginner            |
@@ -101,7 +100,6 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 [Google Drive A](https://drive.google.com/drive/folders/0B7RbJJM_m3GDWTBVRk5mcm9YMEU?resourcekey=0-QdQYKB8lfciygD4mZNdnxw&usp=sharing) | [B](https://drive.google.com/drive/folders/0B7RbJJM_m3GDUGw3VFlVWkd0bjA?resourcekey=0-J1qnxyNU3Pa1m-LqhXkSwA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 ## Course
-
 - [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 
 - [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
@@ -111,7 +109,6 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [Drops: Language learning app](https://languagedrops.com/) - Duolingo-like app which offers 5 minutes/day free flashcards-based app separated by categories. :iphone:
 
 ## Hiragana and Katakana
-
 _Alphabet of Japanese language._
 
 - Hiragana
@@ -157,7 +154,6 @@ _Alphabet of Japanese language._
 - [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
-
 - [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim. A complete guide to Japanese grammar from knowing nothing to advanced topics. :iphone:
   - [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
 - [Imabi](http://www.imabi.net/) - A grammar website like Tae Kim, but made by a linguist. Has many great, in-depth explanations, but some may find them almost too in-depth.
@@ -173,7 +169,6 @@ _Alphabet of Japanese language._
 - [Sakubi](https://sakubi.neocities.org/) - Basic grammar primer that doesn't try to drill you :baby:
 
 ## Reading
-
 - [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigners with audio and video.:baby:
 - [読み物いっぱい](http://www17408ui.sakura.ne.jp/tatsum/project/Yomimono/Yomimono-ippai/index.html) - Reading materials for elementary learners.👶
 - [Tadoku](https://tadoku.org/japanese/en/free-books-en/) - Illustrated books for elementary learners. Some books require purchase. 👶 :moneybag:
@@ -190,7 +185,6 @@ _Alphabet of Japanese language._
 - [ImaWakatta](https://imawakatta.com/) - You can start reading real Japanese today, regardless of your level. ImaWakatta has stories with audio that include native speakers and professional voice overs. Every story has dynamic highlighting so you can follow the audio line by line. Includes 4 free stories. 👶💰
 
 ## Listening
-
 - [SuperNative](https://supernative.tv/) - Trains you to hear, read, and speak Japanese using over 10,000 bite-sized clips from TV and movies. :warning: Only Chrome browser supports voice recognition practice.
 - [Delvin](http://delvinlanguage.com) - Practice Japanese listening and reading with authentic Japanese video.
 - [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
@@ -203,11 +197,9 @@ _Alphabet of Japanese language._
   - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
 
 ## Speaking
-
 - [Online Japanese Accent Dictionary](http://www.gavo.t.u-tokyo.ac.jp/ojad/) - Learn the correct accent to properly pronounce Japanese words. Lists of words are categorized by textbook.
 
 ## Community
-
 - [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
 - [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning.
 - [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write.:iphone:
@@ -218,7 +210,6 @@ _Alphabet of Japanese language._
 - [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
-
 - YouTube
   - [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
   - [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel.
@@ -246,7 +237,6 @@ _Alphabet of Japanese language._
   - [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
 
 ## Dictionary
-
 - Web
 
   - [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
@@ -267,7 +257,6 @@ _Alphabet of Japanese language._
   - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS :iphone::computer:
 
 ## Software
-
 - Computer
   - [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
   - [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on Windows, Mac, and Android.:computer::iphone:
@@ -287,7 +276,6 @@ _Alphabet of Japanese language._
 
 
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
