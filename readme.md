@@ -9,7 +9,6 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
 <img align="middle" alt="Coding" width="250" src="https://media0.giphy.com/media/d9WkParY0LER4iLquM/200w.webp?cid=ecf05e47yyc9yo3241t3rm895ibqdg2rrldlqh69p1xe6v5g&rid=200w.webp&ct=g">
 
 ## Contents
-
 - [Awesome Japanese](#awesome-japanese)
   - [Beginner Guide](#beginner-guide)
   - [Textbook](#textbook)
@@ -43,7 +42,6 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
 | :card_index: | Anki deck           |
 
 ## Beginner Guide
-
 \***\*New to Japanese?\*\*** Start here!
 
 1. All beginners should start with one of the guides below (the top two are the best in my personal opinion).
@@ -64,11 +62,9 @@ For translation, try to avoid Google Translate. Instead pick another one from th
 4. That's it. There are many, many paths to learning Japanese. The most important thing is to choose the one you enjoy. If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy. Look through all the resources below, ask someone if you need help, and good luck.
 
 ## Textbook
-
 _Textbooks provide you with structured learning material._
 
 ### Genki:baby:
-
 Everyone's favorite Japanese textbook. Recommended for beginners.
 _Description_: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
